@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the purpose of a sorting algorithm?",
+        "next": {
+          "correct": 2,
+          "incorrect": 1
+        }
+      },
+      {
+        "id": 2,
+        "question": "Can you name a few sorting algorithms?",
+        "next": {
+          "correct": 3,
+          "incorrect": 2
+        }
+      },
+      {
+        "id": 3,
+        "question": "What is the time complexity of Bubble Sort?",
+        "next": {
+          "correct": 4,
+          "incorrect": 3
+        }
+      },
+      {
+        "id": 4,
+        "question": "Why is Quick Sort generally faster than Bubble Sort?",
+        "next": {
+          "correct": 5,
+          "incorrect": 4
+        }
+      },
+      {
+        "id": 5,
+        "question": "What is the worst-case time complexity of Quick Sort?",
+        "next": {
+          "correct": 6,
+          "incorrect": 5
+        }
+      }
+    ]
+  }
